@@ -23,3 +23,6 @@ def get_stock_data(symbol):
     stock_data.columns = ['Open', 'High', 'Low', 'Close', 'Volume']
 
     return stock_data
+
+
+
